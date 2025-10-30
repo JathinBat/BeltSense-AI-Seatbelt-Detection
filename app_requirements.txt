@@ -1,0 +1,8 @@
+# Seatbelt Detection Test App Requirements
+streamlit>=1.50.0
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=11.0.0
+numpy>=1.24.0
+pyyaml>=6.0

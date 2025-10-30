@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch models
+*.pt
+*.pth
+*.onnx
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Flutter/Dart specific
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Flutter APp specific
+Flutter\ APp/seatbelt_detector_app/ios/Flutter/Generated.xcconfig
+Flutter\ APp/seatbelt_detector_app/ios/Flutter/flutter_export_environment.sh
+Flutter\ APp/seatbelt_detector_app/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Android
+Flutter\ APp/seatbelt_detector_app/android/app/debug
+Flutter\ APp/seatbelt_detector_app/android/app/profile
+Flutter\ APp/seatbelt_detector_app/android/app/release
+Flutter\ APp/seatbelt_detector_app/android/.gradle/
+Flutter\ APp/seatbelt_detector_app/android/captures/
+Flutter\ APp/seatbelt_detector_app/android/gradlew
+Flutter\ APp/seatbelt_detector_app/android/gradlew.bat
+Flutter\ APp/seatbelt_detector_app/android/local.properties
+Flutter\ APp/seatbelt_detector_app/android/key.properties
+
+# Windows
+Flutter\ APp/seatbelt_detector_app/windows/flutter/generated_plugin_registrant.cc
+Flutter\ APp/seatbelt_detector_app/windows/flutter/generated_plugin_registrant.h
+
+# Dataset files
+no\ seatbelt.v3i.yolov8.zip
+archive*.zip
+seatbelt_dataset/
+no\ seatbelt.v3i.yolov8/
+
+# Large files
+*.cache
+*.jpg
+*.png
+!newAppCover.png
+!unnamed.png
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

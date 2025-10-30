@@ -1,0 +1,5 @@
+{
+  "source": "seatbelt_model\\dynamic_simple_training",
+  "created": "2025-10-27T19:58:17.700388",
+  "weights": "weights/best.pt"
+}

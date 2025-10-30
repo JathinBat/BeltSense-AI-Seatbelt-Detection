@@ -1,0 +1,6 @@
+LATEST SEATBELT DETECTION MODEL
+========================================
+model_name: test_model_2
+created_time: 2025-10-20T15:52:43.272558
+source_path: C:\Users\jathi\OneDrive\Academics\Extracurricular\SeatBeltProject\seatbelt_model\test_model_2
+weights_path: weights/best.pt
