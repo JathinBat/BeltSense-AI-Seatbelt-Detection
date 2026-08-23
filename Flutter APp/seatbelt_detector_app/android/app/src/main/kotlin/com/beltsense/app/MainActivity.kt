@@ -1,4 +1,4 @@
-package com.example.seatbelt_detector_app
+package com.beltsense.app
 
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.engine.FlutterEngine
